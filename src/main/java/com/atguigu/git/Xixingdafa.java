@@ -7,5 +7,11 @@ public class Xixingdafa {
         System.out.println("吸星大法");
         System.out.println("吸星大法");
         System.out.println("吸星大法");
+
+
+        System.out.println("kkkkkk");
+        System.out.println("kkkkkk");
+        System.out.println("kkkkkk");
+        System.out.println("kkkkkk");
     }
 }
