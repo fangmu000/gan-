@@ -7,5 +7,10 @@ public class Bxiejianfa {
         System.out.println("辟邪剑法");
         System.out.println("辟邪剑法");
         System.out.println("辟邪剑法");
+
+        System.out.println("A");
+        System.out.println("A");
+        System.out.println("A");
+        System.out.println("A");
     }
 }
